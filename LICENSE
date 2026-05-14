@@ -1,0 +1,8 @@
+The documentation in this repository is licensed under CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/).
+
+The proposed code changes themselves are MIT-licensed and may be incorporated
+into ChainGPT's MIT-licensed SDKs (or any MIT-licensed downstream) without
+restriction.
+
+Copyright (c) 2026 Elyan Labs.
