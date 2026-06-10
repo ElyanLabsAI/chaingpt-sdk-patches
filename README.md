@@ -1,3 +1,5 @@
+[![BCOS Certified](https://img.shields.io/badge/BCOS-Certified-brightgreen?style=flat)](BCOS.md)
+
 # ChainGPT SDK Patches — drafted by Elyan Labs (May 2026)
 
 Three drop-in patches for ChainGPT's published npm SDKs, surfaced during our 2-week PoC integration.
